@@ -27,3 +27,5 @@ mvn sonar:sonar -Dsonar.login=username -Dsonar.password=password
 #Settings.XML
 please paste the settings.xml in your Maven_Home path in conf directory.
 C:\Users\Administrator\Downloads\apache-maven-3.6.3\conf
+
+This is a sample Java-maven application to compile , Scan & Deploy the artifacts.
